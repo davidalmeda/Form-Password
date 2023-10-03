@@ -1,0 +1,8 @@
+.loader {
+    background-color: rgb(189, 176, 176);
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
